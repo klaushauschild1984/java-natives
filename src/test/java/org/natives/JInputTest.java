@@ -36,6 +36,9 @@ public class JInputTest {
         .register(Platform.Windows_x86, "jinput-raw.dll") //
         .register(Platform.Windows_x64, "jinput-dx8_64.dll") //
         .register(Platform.Windows_x64, "jinput-raw_64.dll") //
+        .register(Platform.Linux_x86, "libjinput-linux.so") //
+        .register(Platform.Linux_x64, "libjinput-linux64.so") //
+        .register(Platform.MacOS, "libjinput-osx.jnilib") //
         .require(true) //
         .deleteOnExit(true)//
         .extractTo(new File("target", "jinput-natives")) //
