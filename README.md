@@ -1,3 +1,1 @@
-# Java Natives [![Build Status](https://travis-ci.org/klaushauschild1984/java-natives.svg?branch=master)](https://travis-ci.org/klaushauschild1984/java-natives)
-
-
+# Java Natives [![Build Status](https://travis-ci.org/klaushauschild1984/java-natives.svg?branch=master)](https://travis-ci.org/klaushauschild1984/java-natives) [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=org.natives%3Ajava-natives)](https://sonarcloud.io/dashboard?id=org.natives%3Ajava-natives)
