@@ -25,7 +25,7 @@
     <!-- The Basics -->
     <groupId>org.natives</groupId>
     <artifactId>java-natives</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <dependencies>
         <!-- Tools -->
         <dependency>
@@ -206,7 +206,6 @@
     <scm>
         <url>https://github.com/klaushauschild1984/java-natives</url>
         <connection>scm:git:https://github.com/klaushauschild1984/java-natives.git</connection>
-        <tag>release-1.0</tag>
     </scm>
     <distributionManagement>
         <repository>
